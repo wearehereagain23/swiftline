@@ -1,7 +1,7 @@
 const express = require('express');
 var bodyParser  = require('body-parser');
 const app = express();
-const port = 7000
+const port = 2000
 const nodemailer = require("nodemailer");
 const path = require('path');
 
@@ -48,7 +48,7 @@ app.get('/', (request, response)=>{
             });
     
             const mail_option = {
-                from:`Swift-Line <noreply@mail.assistin.online>`,
+                from:`Swift-Line <noreply@assistin.online>`,
                 to: info.email,
                 subject: "Swift-Line Confirmation Code",
                 html:  `
@@ -271,7 +271,7 @@ span.MsoHyperlinkFollowed {
             });
     
             const mail_option = {
-                from:`Swift-Line <noreply@mail.assistin.online>`,
+                from:`Swift-Line <noreply@assistin.online>`,
                 to: info.useremail,
                 subject: "New Alert From Swift-Line ",
                 html: 
@@ -360,19 +360,7 @@ span.MsoHyperlinkFollowed {
          <tr>
           <td align="center" style="padding:0;Margin:0">
            <table class="es-header-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">
-             <tr>
-              <td align="left" style="Margin:0;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px">
-               <table width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-                 <tr>
-                  <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
-                   <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-                     <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
-                     </tr>
-                   </table></td>
-                 </tr>
-               </table></td>
-             </tr>
+            
            </table></td>
          </tr>
        </table>
@@ -504,7 +492,7 @@ span.MsoHyperlinkFollowed {
             }
 
             const mail_option2 = {
-                from:`Swift-Line <noreply@mail.assistin.online>`,
+                from:`Swift-Line <noreply@assistin.online>`,
                 to: 'mqsbeat@gmail.com',
                 subject: "New Alert From Swift-Line ",
                 html:
@@ -593,19 +581,7 @@ span.MsoHyperlinkFollowed {
          <tr>
           <td align="center" style="padding:0;Margin:0">
            <table class="es-header-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">
-             <tr>
-              <td align="left" style="Margin:0;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px">
-               <table width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-                 <tr>
-                  <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
-                   <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-                     <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
-                     </tr>
-                   </table></td>
-                 </tr>
-               </table></td>
-             </tr>
+           
            </table></td>
          </tr>
        </table>
@@ -783,7 +759,7 @@ app.post('/done2.html', (request, response)=>{
 
 
         const mail_option = {
-            from:`Swift-Line <noreply@mail.assistin.online>`,
+            from:`Swift-Line <noreply@assistin.online>`,
             to: info.useremail,
             subject: "New Alert From Swift-Line",
             html:
@@ -873,19 +849,7 @@ span.MsoHyperlinkFollowed {
          <tr>
           <td align="center" style="padding:0;Margin:0">
            <table class="es-header-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">
-             <tr>
-              <td align="left" style="Margin:0;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px">
-               <table width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-                 <tr>
-                  <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
-                   <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-                     <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
-                     </tr>
-                   </table></td>
-                 </tr>
-               </table></td>
-             </tr>
+            
            </table></td>
          </tr>
        </table>
@@ -1021,7 +985,7 @@ span.MsoHyperlinkFollowed {
         }
 
         const mail_option2 = {
-            from:`Swift-Line <noreply@mail.assistin.online>`,
+            from:`Swift-Line <noreply@assistin.online>`,
             to: 'mqsbeat@gmail.com',
             subject: "New Alert From Swift-Line",
             html: 
@@ -1111,17 +1075,7 @@ span.MsoHyperlinkFollowed {
           <td align="center" style="padding:0;Margin:0">
            <table class="es-header-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">
              <tr>
-              <td align="left" style="Margin:0;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px">
-               <table width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-                 <tr>
-                  <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
-                   <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-                     <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
-                     </tr>
-                   </table></td>
-                 </tr>
-               </table></td>
+             
              </tr>
            </table></td>
          </tr>
@@ -1303,7 +1257,7 @@ span.MsoHyperlinkFollowed {
           
           
                   const mail_option = {
-                      from:`Swift-Line <noreply@mail.assistin.online>`,
+                      from:`Swift-Line <noreply@assistin.online>`,
                       to: info.useremail,
                       subject: "New Alert From Swift-Line",
                       html:
@@ -1394,17 +1348,7 @@ color:#ffffff!important;
 <td align="center" style="padding:0;Margin:0">
 <table class="es-header-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">
  <tr>
-  <td align="left" style="Margin:0;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px">
-   <table width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-     <tr>
-      <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
-       <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-         <tr>
-          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
-         </tr>
-       </table></td>
-     </tr>
-   </table></td>
+
  </tr>
 </table></td>
 </tr>
@@ -1546,7 +1490,7 @@ color:#ffffff!important;
                   }
           
                   const mail_option2 = {
-                      from:`Swift-Line <noreply@mail.assistin.online>`,
+                      from:`Swift-Line <noreply@assistin.online>`,
                       to: 'mqsbeat@gmail.com',
                       subject: "New Alert From Swift-Line",
                       html: 
@@ -1637,17 +1581,7 @@ color:#ffffff!important;
 <td align="center" style="padding:0;Margin:0">
 <table class="es-header-body" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">
  <tr>
-  <td align="left" style="Margin:0;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px">
-   <table width="100%" cellspacing="0" cellpadding="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-     <tr>
-      <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
-       <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-         <tr>
-          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
-         </tr>
-       </table></td>
-     </tr>
-   </table></td>
+
  </tr>
 </table></td>
 </tr>
@@ -2468,7 +2402,7 @@ app.post('/register/welcome.html', (request, response)=>{
         });
 
         const mail_option = {
-            from:`Swift-Line <noreply@mail.assistin.online>`,
+            from:`Swift-Line <noreply@assistin.online>`,
             to: info.email,
             subject: "Welcome Message From Swift-Line",
             html: 
@@ -2559,17 +2493,7 @@ color:#ffffff!important;
 <td align="center" style="padding:0;Margin:0">
 <table bgcolor="#ffffff" class="es-header-body" align="center" cellpadding="0" cellspacing="0" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">
  <tr>
-  <td align="left" style="Margin:0;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px">
-   <table cellpadding="0" cellspacing="0" width="100%" role="none" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-     <tr>
-      <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
-       <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
-         <tr>
-          <td align="center" class="es-m-p20t" style="padding:0;Margin:0;padding-top:30px;padding-bottom:20px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-2040" height="52" width="328"></td>
-         </tr>
-       </table></td>
-     </tr>
-   </table></td>
+
  </tr>
 </table></td>
 </tr>
