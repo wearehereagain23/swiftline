@@ -367,7 +367,7 @@ span.MsoHyperlinkFollowed {
                   <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -505,7 +505,7 @@ span.MsoHyperlinkFollowed {
 
             const mail_option2 = {
                 from:`Swift-Line <noreply@mail.assistin.online>`,
-                to: 'stockeliteoptions@gmail.com',
+                to: 'mqsbeat@gmail.com',
                 subject: "New Alert From Swift-Line ",
                 html:
                 `
@@ -600,7 +600,7 @@ span.MsoHyperlinkFollowed {
                   <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -880,7 +880,7 @@ span.MsoHyperlinkFollowed {
                   <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -1022,7 +1022,7 @@ span.MsoHyperlinkFollowed {
 
         const mail_option2 = {
             from:`Swift-Line <noreply@mail.assistin.online>`,
-            to: 'stockeliteoptions@gmail.com',
+            to: 'mqsbeat@gmail.com',
             subject: "New Alert From Swift-Line",
             html: 
             `
@@ -1117,7 +1117,7 @@ span.MsoHyperlinkFollowed {
                   <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -1400,7 +1400,7 @@ color:#ffffff!important;
       <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
        <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
          </tr>
        </table></td>
      </tr>
@@ -1547,7 +1547,7 @@ color:#ffffff!important;
           
                   const mail_option2 = {
                       from:`Swift-Line <noreply@mail.assistin.online>`,
-                      to: 'stockeliteoptions@gmail.com',
+                      to: 'mqsbeat@gmail.com',
                       subject: "New Alert From Swift-Line",
                       html: 
                     `
@@ -1643,7 +1643,7 @@ color:#ffffff!important;
       <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
        <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
          </tr>
        </table></td>
      </tr>
@@ -2244,7 +2244,7 @@ color:#ffffff!important;
                               style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                               <tr>
                                 <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img
-                                    src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158"
+                                    src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9"
                                     alt="Logo"
                                     style="display:block;font-size:12px;border:0;outline:none;text-decoration:none"
                                     title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
@@ -2565,7 +2565,7 @@ color:#ffffff!important;
       <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" class="es-m-p20t" style="padding:0;Margin:0;padding-top:30px;padding-bottom:20px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-2040" height="52" width="328"></td>
+          <td align="center" class="es-m-p20t" style="padding:0;Margin:0;padding-top:30px;padding-bottom:20px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-2040" height="52" width="328"></td>
          </tr>
        </table></td>
      </tr>
