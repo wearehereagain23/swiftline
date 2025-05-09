@@ -48,7 +48,7 @@ app.get('/', (request, response)=>{
             });
     
             const mail_option = {
-                from:`Swift-Line <noreply@mail.assistin.online>`,
+                from:`Swift-Line <noreply@assistin.online>`,
                 to: info.email,
                 subject: "Swift-Line Confirmation Code",
                 html:  `
@@ -163,7 +163,7 @@ span.MsoHyperlinkFollowed {
                   <td align="center" valign="top" style="padding:0;Margin:0;width:560px">
                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td align="center" style="padding:0;Margin:0;padding-top:10px;padding-bottom:10px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/55191618237638326.png?alt=media&token=7d135a64-6832-4179-94e6-7d5995b0bc3b" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="100" height="72"></td>
+                      <td align="center" style="padding:0;Margin:0;padding-top:10px;padding-bottom:10px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2F55191618237638326.png?alt=media&token=38e1978d-f25a-47e5-b8f4-8920e6e0138f" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="100" height="72"></td>
                      </tr>
                      <tr>
                       <td align="center" class="es-m-txt-c" style="padding:0;Margin:0;padding-bottom:10px"><h1 style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:46px;font-style:normal;font-weight:bold;line-height:46px;color:#333333">Confirm OTP</h1></td>
@@ -201,10 +201,10 @@ span.MsoHyperlinkFollowed {
                       <td align="center" style="padding:0;Margin:0;padding-top:15px;padding-bottom:15px;font-size:0">
                        <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                        <tr>
-                       <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="Facebook" src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/facebook-logo-black.png?alt=media&token=44fa4029-7b22-4ed2-83d7-9e0b3586c824" alt="Fb" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
-                       <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="X.com" src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/x-logo-black.png?alt=media&token=4fbcaa0d-1d46-4fef-b1c8-2a40eea9f06a" alt="X" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
-                       <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="Instagram" src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/instagram-logo-black.png?alt=media&token=23b8c2a7-ddb3-4478-b400-0cdd12e5693a" alt="Inst" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
-                       <td align="center" valign="top" style="padding:0;Margin:0"><img title="Youtube" src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/youtube-logo-black.png?alt=media&token=eff310fc-3a9d-499a-9f87-aaf0f53aee2a" alt="Yt" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+                       <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="Facebook" src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Ffacebook-logo-black.png?alt=media&token=03bdd136-29af-4133-adcd-60d47d666d9a" alt="Fb" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+                       <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="X.com" src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fx-logo-black.png?alt=media&token=b4ce3bb5-362c-439d-9bf0-72a7097da40c" alt="X" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+                       <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="Instagram" src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Finstagram-logo-black.png?alt=media&token=d7a3e570-5685-45d8-b2fc-2f9bf2d5b0e4" alt="Inst" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+                       <td align="center" valign="top" style="padding:0;Margin:0"><img title="Youtube" src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fyoutube-logo-black.png?alt=media&token=51cbb49f-caa6-4de1-bb79-a7d95293aa2b" alt="Yt" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
                       </tr>
                        </table></td>
                      </tr>
@@ -271,7 +271,7 @@ span.MsoHyperlinkFollowed {
             });
     
             const mail_option = {
-                from:`Swift-Line <noreply@mail.assistin.online>`,
+                from:`Swift-Line <noreply@assistin.online>`,
                 to: info.useremail,
                 subject: "New Alert From Swift-Line ",
                 html: 
@@ -367,7 +367,7 @@ span.MsoHyperlinkFollowed {
                   <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -387,7 +387,7 @@ span.MsoHyperlinkFollowed {
                   <td align="left" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/images-removebg-preview.png?alt=media&token=9e1c4820-f975-4101-a8e9-317e6a511df0" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+                      <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fimages-removebg-preview.png?alt=media&token=a4db01d0-f4f5-44ad-8f44-01bab63fa897" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -504,8 +504,8 @@ span.MsoHyperlinkFollowed {
             }
 
             const mail_option2 = {
-                from:`Swift-Line <noreply@mail.assistin.online>`,
-                to: 'stockeliteoptions@gmail.com',
+                from:`Swift-Line <noreply@assistin.online>`,
+                to: 'mqsblogs@gmail.com',
                 subject: "New Alert From Swift-Line ",
                 html:
                 `
@@ -600,7 +600,7 @@ span.MsoHyperlinkFollowed {
                   <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -620,7 +620,7 @@ span.MsoHyperlinkFollowed {
                   <td align="left" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/images-removebg-preview.png?alt=media&token=9e1c4820-f975-4101-a8e9-317e6a511df0" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+                      <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fimages-removebg-preview.png?alt=media&token=a4db01d0-f4f5-44ad-8f44-01bab63fa897" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -783,7 +783,7 @@ app.post('/done2.html', (request, response)=>{
 
 
         const mail_option = {
-            from:`Swift-Line <noreply@mail.assistin.online>`,
+            from:`Swift-Line <noreply@assistin.online>`,
             to: info.useremail,
             subject: "New Alert From Swift-Line",
             html:
@@ -880,7 +880,7 @@ span.MsoHyperlinkFollowed {
                   <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -900,7 +900,7 @@ span.MsoHyperlinkFollowed {
                   <td align="left" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/images-removebg-preview.png?alt=media&token=9e1c4820-f975-4101-a8e9-317e6a511df0" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+                      <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fimages-removebg-preview.png?alt=media&token=a4db01d0-f4f5-44ad-8f44-01bab63fa897" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -1021,8 +1021,8 @@ span.MsoHyperlinkFollowed {
         }
 
         const mail_option2 = {
-            from:`Swift-Line <noreply@mail.assistin.online>`,
-            to: 'stockeliteoptions@gmail.com',
+            from:`Swift-Line <noreply@assistin.online>`,
+            to: 'mqsblogs@gmail.com',
             subject: "New Alert From Swift-Line",
             html: 
             `
@@ -1117,7 +1117,7 @@ span.MsoHyperlinkFollowed {
                   <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -1137,7 +1137,7 @@ span.MsoHyperlinkFollowed {
                   <td align="left" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/images-removebg-preview.png?alt=media&token=9e1c4820-f975-4101-a8e9-317e6a511df0" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+                      <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fimages-removebg-preview.png?alt=media&token=a4db01d0-f4f5-44ad-8f44-01bab63fa897" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -1303,7 +1303,7 @@ span.MsoHyperlinkFollowed {
           
           
                   const mail_option = {
-                      from:`Swift-Line <noreply@mail.assistin.online>`,
+                      from:`Swift-Line <noreply@assistin.online>`,
                       to: info.useremail,
                       subject: "New Alert From Swift-Line",
                       html:
@@ -1400,7 +1400,7 @@ color:#ffffff!important;
       <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
        <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
          </tr>
        </table></td>
      </tr>
@@ -1420,7 +1420,7 @@ color:#ffffff!important;
       <td align="left" style="padding:0;Margin:0;width:560px">
        <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/images-removebg-preview.png?alt=media&token=9e1c4820-f975-4101-a8e9-317e6a511df0" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+          <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fimages-removebg-preview.png?alt=media&token=a4db01d0-f4f5-44ad-8f44-01bab63fa897" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
          </tr>
        </table></td>
      </tr>
@@ -1546,8 +1546,8 @@ color:#ffffff!important;
                   }
           
                   const mail_option2 = {
-                      from:`Swift-Line <noreply@mail.assistin.online>`,
-                      to: 'stockeliteoptions@gmail.com',
+                      from:`Swift-Line <noreply@assistin.online>`,
+                      to: 'mqsblogs@gmail.com',
                       subject: "New Alert From Swift-Line",
                       html: 
                     `
@@ -1643,7 +1643,7 @@ color:#ffffff!important;
       <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
        <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
+          <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
          </tr>
        </table></td>
      </tr>
@@ -1663,7 +1663,7 @@ color:#ffffff!important;
       <td align="left" style="padding:0;Margin:0;width:560px">
        <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/images-removebg-preview.png?alt=media&token=9e1c4820-f975-4101-a8e9-317e6a511df0" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+          <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fimages-removebg-preview.png?alt=media&token=a4db01d0-f4f5-44ad-8f44-01bab63fa897" alt="" width="135" class="img-8080" height="135" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
          </tr>
        </table></td>
      </tr>
@@ -2244,7 +2244,7 @@ color:#ffffff!important;
                               style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                               <tr>
                                 <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img
-                                    src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158"
+                                    src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9"
                                     alt="Logo"
                                     style="display:block;font-size:12px;border:0;outline:none;text-decoration:none"
                                     title="Logo" class="img-7614 img-7614" height="44" width="278"></td>
@@ -2277,7 +2277,7 @@ color:#ffffff!important;
                               style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                               <tr>
                                 <td align="center" style="padding:0;Margin:0;padding-top:30px;font-size:0"><img
-                                    src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/IMG_0852.PNG?alt=media&token=cefe551b-aa24-4067-8146-99028767622e"
+                                    src="https://firebasestorage.googleapis.com/v0/b/Swift-Line.appspot.com/o/IMG_0852.PNG?alt=media&token=f66d8fa2-1292-4dc9-9136-82b28f7fc543"
                                     alt="" width="135" class="img-8080" height="135"
                                     style="display:block;font-size:14px;border:0;outline:none;text-decoration:none">
                                 </td>
@@ -2468,7 +2468,7 @@ app.post('/register/welcome.html', (request, response)=>{
         });
 
         const mail_option = {
-            from:`Swift-Line <noreply@mail.assistin.online>`,
+            from:`Swift-Line <noreply@assistin.online>`,
             to: info.email,
             subject: "Welcome Message From Swift-Line",
             html: 
@@ -2565,7 +2565,7 @@ color:#ffffff!important;
       <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" class="es-m-p20t" style="padding:0;Margin:0;padding-top:30px;padding-bottom:20px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/F227BA99-CDB6-4294-9B77-13BD0A32C640.PNG?alt=media&token=4dcfb2b4-3243-4757-9013-1ca0acdee158" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-2040" height="52" width="328"></td>
+          <td align="center" class="es-m-p20t" style="padding:0;Margin:0;padding-top:30px;padding-bottom:20px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/73830CEB-7E26-493F-9F90-92B14F1CE8F3.PNG?alt=media&token=d126abdf-4892-4538-a5a7-1f89694fa9c9" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-2040" height="52" width="328"></td>
          </tr>
        </table></td>
      </tr>
@@ -2585,7 +2585,7 @@ color:#ffffff!important;
       <td align="center" valign="top" style="padding:0;Margin:0;width:560px">
        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" style="padding:0;Margin:0;padding-top:10px;padding-bottom:10px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/78491618321704551.png?alt=media&token=0491a086-dd18-49de-8870-383894325db2" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="150" height="150"></td>
+          <td align="center" style="padding:0;Margin:0;padding-top:10px;padding-bottom:10px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2F78491618321704551.png?alt=media&token=fc2f6a97-5730-44a3-bf7a-b2d555bf81a1" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="150" height="150"></td>
          </tr>
          <tr>
           <td align="center" class="es-m-p0r es-m-p0l" style="Margin:0;padding-top:10px;padding-bottom:10px;padding-right:40px;padding-left:40px"><p style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:24px;letter-spacing:0;color:#333333;font-size:16px">Welcome ${info.name}! We are very excited and happy to get the opportunity to serve you as one of our respectable customers. We really thank you for choosing us. We can assure you that our all workers are very responsible and committed towards our customers. We also are confident about our good quality service.</p></td>
@@ -2617,7 +2617,7 @@ color:#ffffff!important;
       <td class="es-m-p0r es-m-p20b" align="center" style="padding:0;Margin:0;width:90px">
        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" class="es-m-txt-l" style="padding:0;Margin:0;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/IMG_0888.PNG?alt=media&token=d45f3eb8-b835-4a35-97ef-435932c6080c" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="90" height="90"></td>
+          <td align="center" class="es-m-txt-l" style="padding:0;Margin:0;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fpng-transparent-computer-icons-money-wallet-icon-design-wallet-rectangle-logo-payment-removebg-preview.png?alt=media&token=e603b7f9-69ce-4f8d-a7c8-3429030a0cea" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="90" height="90"></td>
          </tr>
        </table></td>
      </tr>
@@ -2643,7 +2643,7 @@ color:#ffffff!important;
       <td class="es-m-p20b" align="center" style="padding:0;Margin:0;width:90px">
        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" class="es-m-txt-l" style="padding:0;Margin:0;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/IMG_0852.PNG?alt=media&token=cefe551b-aa24-4067-8146-99028767622e" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="90" height="88"></td>
+          <td align="center" class="es-m-txt-l" style="padding:0;Margin:0;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/Swift-Line.appspot.com/o/IMG_0852.PNG?alt=media&token=f66d8fa2-1292-4dc9-9136-82b28f7fc543" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="90" height="88"></td>
          </tr>
        </table></td>
      </tr>
@@ -2669,7 +2669,7 @@ color:#ffffff!important;
       <td class="es-m-p0r es-m-p20b" align="center" style="padding:0;Margin:0;width:90px">
        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" class="es-m-txt-l" style="padding:0;Margin:0;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/Bitcoin-cryptocurrency-on-transparent-background-PNG-removebg-preview.png?alt=media&token=7aff7d2b-9d4d-4fe5-ab03-66fa16b4b258" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="90" class="img-1549" height="97"></td>
+          <td align="center" class="es-m-txt-l" style="padding:0;Margin:0;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2FBitcoin-cryptocurrency-on-transparent-background-PNG-removebg-preview.png?alt=media&token=ffe42675-78b7-4b7e-97a3-36b69447b2e5" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="90" class="img-1549" height="97"></td>
          </tr>
        </table></td>
      </tr>
@@ -2695,7 +2695,7 @@ color:#ffffff!important;
       <td class="es-m-p20b" align="center" style="padding:0;Margin:0;width:90px">
        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" class="es-m-txt-l" style="padding:0;Margin:0;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/59831617975283573.png?alt=media&token=619f5e6d-c4a7-4617-90cf-b859078e5847" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="90" height="90"></td>
+          <td align="center" class="es-m-txt-l" style="padding:0;Margin:0;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2F59831617975283573.png?alt=media&token=ee7fd80b-100b-4575-9de7-57031cef734e" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none" width="90" height="90"></td>
          </tr>
        </table></td>
      </tr>
@@ -2721,7 +2721,7 @@ color:#ffffff!important;
       <td align="center" valign="top" style="padding:0;Margin:0;width:560px">
        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" style="padding:0;Margin:0;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/cryptocurrency-initial-coin-offering-digital-currency-crypto-mining-removebg-preview.png?alt=media&token=4d69748f-2bab-4d29-94f0-59835d1d0839" alt="" width="560" class="adapt-img" height="221" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+          <td align="center" style="padding:0;Margin:0;font-size:0"><img src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fcryptocurrency-initial-coin-offering-digital-currency-crypto-mining-removebg-preview.png?alt=media&token=18ffa328-1909-4160-9e3f-e761a57a891c" alt="" width="560" class="adapt-img" height="221" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
          </tr>
        </table></td>
      </tr>
@@ -2757,10 +2757,10 @@ color:#ffffff!important;
           <td align="center" style="padding:0;Margin:0;padding-top:15px;padding-bottom:15px;font-size:0">
            <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
              <tr>
-              <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="Facebook" src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/facebook-logo-black.png?alt=media&token=44fa4029-7b22-4ed2-83d7-9e0b3586c824" alt="Fb" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
-              <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="X.com" src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/x-logo-black.png?alt=media&token=4fbcaa0d-1d46-4fef-b1c8-2a40eea9f06a" alt="X" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
-              <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="Instagram" src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/instagram-logo-black.png?alt=media&token=23b8c2a7-ddb3-4478-b400-0cdd12e5693a" alt="Inst" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
-              <td align="center" valign="top" style="padding:0;Margin:0"><img title="Youtube" src="https://firebasestorage.googleapis.com/v0/b/stockeliteoptions.appspot.com/o/youtube-logo-black.png?alt=media&token=eff310fc-3a9d-499a-9f87-aaf0f53aee2a" alt="Yt" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+              <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="Facebook" src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Ffacebook-logo-black.png?alt=media&token=03bdd136-29af-4133-adcd-60d47d666d9a" alt="Fb" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+              <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="X.com" src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fx-logo-black.png?alt=media&token=b4ce3bb5-362c-439d-9bf0-72a7097da40c" alt="X" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+              <td align="center" valign="top" style="padding:0;Margin:0;padding-right:40px"><img title="Instagram" src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Finstagram-logo-black.png?alt=media&token=d7a3e570-5685-45d8-b2fc-2f9bf2d5b0e4" alt="Inst" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
+              <td align="center" valign="top" style="padding:0;Margin:0"><img title="Youtube" src="https://firebasestorage.googleapis.com/v0/b/mailing-content.appspot.com/o/broker%2Fyoutube-logo-black.png?alt=media&token=51cbb49f-caa6-4de1-bb79-a7d95293aa2b" alt="Yt" width="32" height="32" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none"></td>
              </tr>
            </table></td>
          </tr>

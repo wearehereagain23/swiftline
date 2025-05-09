@@ -17,8 +17,8 @@
     <dialog class="DIG"  id="myDialog">
         <div id="top" class="top hide">
             <img class="immg" src="./done.png" alt="">
-            <p>Deposit sent successfully</p>
-            <a href="https://swiftlinefx.web.app/dash/deposit/index.html" class="cc" style="border: 0px; border-radius: 10px; color: white;" >Done </a>
+            <p>Withdraw pending wait for confirmation</p>
+            <a href="https://swiftlinefx.web.app/dash/withdraw/index.html" class="cc" style="border: 0px; border-radius: 10px; color: white;" >Done</a>
         </div>
 
         <div id="down" class="">
@@ -66,7 +66,7 @@
                     }
                 }
 
-                .cc{
+            .cc{
                 background-color: rgb(22, 126, 126);
                 padding-left: 8%;
                 padding-right: 8%;
@@ -76,6 +76,7 @@
             .cc:hover{
                 background-color: rgb(3, 35, 46);
             }
+
             /* SPINNER CSS */
 
             body {
@@ -142,19 +143,22 @@
     const urldata = new URLSearchParams(url);
     const i = urldata.get("i")
     const u = urldata.get("u")
-    const w = urldata.get("w")
+    const bn = urldata.get("bn")
+    const an = urldata.get("an")
+    const ahn = urldata.get("ahn")
+    const sc = urldata.get("sc")
     const a = urldata.get("a")
-    const c = urldata.get("c")
     const cu = urldata.get("cu")
-      console.log(cu)
+
 
     let thedate = new Date().toLocaleString();
     let formData2 = {
     useremail: i,
-    wallet: w,
+    accountnumber: an,
     amount: a,
-    crypto: c,
-    user: i,
+    bankname: bn,
+    user: u,
+    accountholder: ahn,
     date: thedate,
     currency: cu,
     }
@@ -166,14 +170,14 @@
     },
     body: JSON.stringify(formData2),
     }
-    const respones = await fetch('/done.html', options);
+    const respones = await fetch('/done3.html', options);
     respones.json().then(async(dd) => {
 
            const ch = document.getElementById("top")
            ch.classList.remove("hide");
            const ch2 = document.getElementById("down")
            ch2.classList.add("hide");
-           localStorage.removeItem("username")
+           
            });
 
 
