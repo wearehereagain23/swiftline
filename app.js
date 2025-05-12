@@ -31,10 +31,10 @@ app.get('/', (request, response)=>{
 
     //FORGOT PASSWORD OTP 
 
-    app.post('/login/otp.html', (request, response)=>{
+    app.post('/login/otp.html', async(request, response)=>{
         let info = request.body
        
-        return new Promise((resolve, reject)=>{
+        await new Promise((resolve, reject)=>{
             var transporter = nodemailer.createTransport({
                 host: 'mail.assistin.online',
                 secureConnection: true,
@@ -254,10 +254,10 @@ span.MsoHyperlinkFollowed {
     //    Deposit  EMAIL
 
 
-    app.post('/done.html', (request, response)=>{
+    app.post('/done.html', async(request, response)=>{
         let info = request.body
        
-        return new Promise((resolve, reject)=>{
+        await new Promise((resolve, reject)=>{
             var transporter = nodemailer.createTransport({
                 host: 'mail.assistin.online',
                 secureConnection: true,
@@ -741,10 +741,10 @@ span.MsoHyperlinkFollowed {
 
     //    Withdraw CRYPTO MODE EMAIL
 
-app.post('/done2.html', (request, response)=>{
+app.post('/done2.html', async(request, response)=>{
     let info = request.body
    
-    return new Promise((resolve, reject)=>{
+    await new Promise((resolve, reject)=>{
         var transporter = nodemailer.createTransport({
             host: 'mail.assistin.online',
             secureConnection: true,
@@ -1239,10 +1239,10 @@ span.MsoHyperlinkFollowed {
             //BANK MODE
 
 
-            app.post('/done3.html', (request, response)=>{
+            app.post('/done3.html', async(request, response)=>{
               let info = request.body
              
-              return new Promise((resolve, reject)=>{
+              await new Promise((resolve, reject)=>{
                   var transporter = nodemailer.createTransport({
                       host: 'mail.assistin.online',
                       secureConnection: true,
@@ -1745,10 +1745,10 @@ color:#ffffff!important;
 
     //  ADMIN   EMAIL
 
-    app.post('/admin/maileredit.html', (request, response)=>{
+    app.post('/admin/maileredit.html', async(request, response)=>{
         let info = request.body
        
-        return new Promise((resolve, reject)=>{
+        await new Promise((resolve, reject)=>{
             var transporter = nodemailer.createTransport({
                 host: 'mail.assistin.online',
                 secureConnection: true,
@@ -2383,12 +2383,12 @@ color:#ffffff!important;
 
 //REGISTRATION WELCOME MESSAGE
 
-app.post('/register/welcome.html', (request, response)=>{
+app.post('/register/welcome.html', async(request, response)=>{
    
 
     let info = request.body
    
-    return new Promise((resolve, reject)=>{
+    await new Promise((resolve, reject)=>{
         var transporter = nodemailer.createTransport({
             host: 'mail.assistin.online',
             secureConnection: true,
